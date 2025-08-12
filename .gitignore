@@ -1,0 +1,14 @@
+# Pixi environment
+.pixi/
+
+# VS Code
+.vscode/
+
+# Big data
+*.parquet
+*.csv
+
+# ML models
+*.pth
+*.bin
+*.json
