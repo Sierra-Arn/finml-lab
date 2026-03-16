@@ -2,8 +2,8 @@
 
 A comprehensive machine learning laboratory for financial time series analysis and cryptocurrency price prediction using BTC/USDT 1-hour candlestick market data.
 
-> **Note**:
-This is an educational project focused on demonstrating modern financial ML workflows rather than providing a production trading system.
+> [!NOTE]  
+**This repository is archived.** This is an educational ML experiment on financial time series data — not a research paper or a trading system.
 
 ## **Project Structure**
 
